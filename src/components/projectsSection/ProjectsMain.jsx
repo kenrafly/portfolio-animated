@@ -6,7 +6,6 @@ import VacationOfAfrica from "../../../public/images/website-img-1.jpg";
 import MoolaApp from "../../../public/images/website-img-2.webp";
 import Tourzania from "../../../public/images/website-img-3.jpg";
 import BankOfLuck from "../../../public/images/website-img-4.jpg";
-import { PiHexagonThin } from "react-icons/pi";
 
 const projects = [
   {
